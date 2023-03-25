@@ -7,3 +7,6 @@ golf_score = -3
 hourly_rate = 19.50
 account_balance = 1349.87
 price = 19.99
+balance_paid = false
+assignment_completed = true
+files_up_to_date = true
