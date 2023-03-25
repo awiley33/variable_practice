@@ -10,3 +10,11 @@ price = 19.99
 balance_paid = false
 assignment_completed = true
 files_up_to_date = true
+username = "soccergirl25"
+license_plate = "J8D MW2"
+greeting = "Goodbye World!"
+puts "It is beautiful outside today!"
+puts "I can't wait to go on a walk"
+puts "My desk setup is coming together."
+puts "I love cheese"
+puts "The sun is warm :)"
